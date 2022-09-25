@@ -4,7 +4,7 @@
 
 FROM ayiinxd/ayiin-userbot:buster
 
-RUN git clone -b wisetelethon https://github.com/wise-maestro/wisetelethon /home/wisetelethon/ \
+RUN git clone -b Ayiin-Userbot https://github.com/wise-maestro/wisetelethon /home/wisetelethon/ \
     && chmod 777 /home/wisetelethon \
     && mkdir /home/wisetelethon/bin/
 
