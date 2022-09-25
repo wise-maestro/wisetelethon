@@ -21,7 +21,7 @@ MSG_ON = """
 ❏ ᴡɪsᴇ ᴜsᴇʀʙᴏᴛ ʙᴇʀʜᴀsɪʟ ᴅɪᴀᴋᴛɪғᴋᴀɴ
 ╭╼┅━━━━━╍━━━━━┅╾
 ├▹ ᴡɪsᴇ ᴠᴇʀsɪᴏɴ - {} •[{}]•
-├▹ Usᴇʀʙᴏᴛ Vᴇʀsɪᴏɴ - {}
+├▹ Usᴇʀʙᴏᴛ Vᴇʀsɪᴏɴ ɢᴏᴅ ғᴀᴛʜᴇʀ
 ├▹ @maestrocreation
 ├▹ Kᴇᴛɪᴋ {}alive Uɴᴛᴜᴋ Mᴇɴɢᴇᴄᴇᴋ Bᴏᴛ
 ╰╼┅━━━━━╍━━━━━┅╾
@@ -61,7 +61,7 @@ async def ayiin_userbot_on():
             if BOTLOG_CHATID != 0:
                 await bot.send_message(
                     BOTLOG_CHATID,
-                    MSG_ON.format(py_ver, HOSTED_ON, branch, cmd),
+                    MSG_ON.format(py_ver, HOSTED_ON, cmd),
                 )
     except BaseException:
         pass
