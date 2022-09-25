@@ -50,8 +50,8 @@ error_8: "**KESALAHAN: {} tidak merespon silahkan coba lagi nanti**"
 
 #for yins
 ayiin_1: "**[ᴋᴏɴᴛᴏʟ]** - Perintah Itu Dilarang Di Gc Ini Goblok..."
-ayiin_2: "**[ᴋᴏɴᴛᴏʟ]** - Tidak dapat menyamar sebagai Developer Ayiin-Userbot Ngentod 😡"
-ayiin_3: "**Maaf Telah MengClone Ayiin 🥺**"
+ayiin_2: "**[ᴋᴏɴᴛᴏʟ]** - Tidak dapat menyamar sebagai Developer ᴡɪsᴇ ᴜsᴇʀʙᴏᴛ Ngentod 😡"
+ayiin_3: "**Maaf Telah MengClone ᴡɪsᴇ ᴜsᴇʀʙᴏᴛ 🥺**"
 
 # admintools
 prom_1: "`Mempromosikan...`"
@@ -361,15 +361,15 @@ gban_1: "**𝘽𝙖𝙣𝙣𝙚𝙙 𝙎𝙥𝙤𝙩𝙚𝙙**\n**𝙁𝙞𝙧�
 gban_2: "`Pemrosesan larangan global...`"
 gban_3: "`𖣘 Larangan Global Akan Aktif...`"
 gban_4: "**Maaf Telah Terjadi Kesalahan :(**"
-gban_5: "**Apakah Anda Gila ?.. Dia Adalah Developer Ayiin-Userbot 🤪**"
-gban_6: "**Apakah Anda Gila ?... Dia Adalah Admin @SharingUserbot 🤪**"
+gban_5: "**Apakah Anda Gila ?.. Dia Adalah Developer ᴡɪsᴇ ᴜsᴇʀʙᴏᴛ 🤪**"
+gban_6: "**Apakah Anda Gila ?... Dia Adalah Admin @telegram 🤪**"
 gban_7: "**\\#𝙂𝘽𝙖𝙣𝙣𝙚𝙙_𝙐𝙨𝙚𝙧//**\n\n**𝙁𝙞𝙧𝙨𝙩 𝙉𝙖𝙢𝙚 :** [{}](tg://user?id={})\n**𝙐𝙨𝙚𝙧 𝙄𝘿 :** `{}`\n**𝘼𝙘𝙩𝙞𝙤𝙣 :** `𝙂𝙡𝙤𝙗𝙖𝙡 𝘽𝙖𝙣𝙣𝙚𝙙`"
 gban_8: "**Mohon Balas Ke Pesan Penggunanya**"
 gban_9: "**#𝘼𝙡𝙧𝙚𝙖𝙙𝙮_𝙂𝘽𝙖𝙣𝙣𝙚𝙙**\n\n Pengguna Sudah Ada Di Daftar Larangan Global Saya.**"
 gban_10: "**\\#𝙂𝘽𝙖𝙣𝙣𝙚𝙙_𝙐𝙨𝙚𝙧//**\n\n**𝙁𝙞𝙧𝙨𝙩 𝙉𝙖𝙢𝙚 :** [{}](tg://user?id={})\n**𝙐𝙨𝙚𝙧 𝙄𝘿 :** `{}`\n**𝘼𝙘𝙩𝙞𝙤𝙣 :** `𝙂𝙡𝙤𝙗𝙖𝙡 𝘽𝙖𝙣𝙣𝙚𝙙`\n**𝙂𝙗𝙖𝙣𝙣𝙚𝙙 𝘽𝙮 :** `{}`\n**𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : ✧ ᴡɪsᴇ ᴜsᴇʀʙᴏᴛ ✧**"
 ungban_1: "`Membatalkan Perintah Larangan Global...`"
 ungban_2: "`Gagal Membatalkan Perintah Larangan Global...`"
-ungban_3: "`Gagal Membatalkan Perintah Larangan Global... Karena Dia Ada Di Daftar Hitam Ayiin-Userbot`"
+ungban_3: "`Gagal Membatalkan Perintah Larangan Global... Karena Dia Ada Di Daftar Hitam ᴡɪsᴇ ᴜsᴇʀʙᴏᴛ`"
 ungban_4: "**\\#𝙐𝙣𝙂𝙗𝙖𝙣𝙣𝙚𝙙_𝙐𝙨𝙚𝙧//**\n\n**𝙁𝙞𝙧𝙨𝙩 𝙉𝙖𝙢𝙚 :** [{}](tg://user?id={})\n**𝙐𝙨𝙚𝙧 𝙄𝘿 :** `{}`\n**𝘼𝙘𝙩𝙞𝙤𝙣 :** `𝙐𝙣𝙂𝙡𝙤𝙗𝙖𝙡 𝘽𝙖𝙣𝙣𝙚𝙙`\n**𝙐𝙣𝙂𝙗𝙖𝙣𝙣𝙚𝙙 𝘽𝙮 :** `{}`\n**𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : ✧ ᴡɪsᴇ ᴜsᴇʀʙᴏᴛ ✧**"
 
 # gcast tools
@@ -409,7 +409,7 @@ comt_1: "`Silakan TAMBAHKAN Token Akses yang Tepat dari github.com`"
 comt_2: "`Silakan TAMBAHKAN Nama Repo Github yang Tepat dari bot pengguna Anda`"
 comt_3: "Diunduh ke `{}` dalam {} detik."
 comt_4: "Berkomitmen ke Github ...."
-comt_5: "`Berkomitmen Pada Repo Github Anda`\n\n[Modul Anda](https://github.com/{}/tree/sql-extended/AyiinXd/modules/)"
+comt_5: "`Berkomitmen Pada Repo Github Anda`\n\n"
 comt_6: "Tidak bisa {} Plugin"
 comt_7: "`Bunuh Diri Berkomitmen`"
 comt_8: "Mengunduh ke direktori TEMP"
